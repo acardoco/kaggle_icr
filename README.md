@@ -1,4 +1,4 @@
 # kaggle_icr
 
-Solución con el mejor valor en el dataset privado. Sin embargo, en mis submissions solo escogí las opciones que me dieron una medalla de bronze (el actual me hubiera dado una medalla de plata).
-La solución de bronze tiene downsample con un single model (sin folds).
+Solution with the best value in the private dataset. However, in my submissions I only chose the options that gave me a bronze medal (the current one would have given me a silver medal).
+The bronze solution has a downsample with a single model (without folds).
